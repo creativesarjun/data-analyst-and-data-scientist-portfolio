@@ -7,3 +7,4 @@ This repository is a series of projects I've practiced learning with Dataquest.i
 * [Project: Finding Heavy Traffic Indicators on I-94](https://github.com/creativesarjun/projects/blob/main/projct-5-finding-heavy-traffic-indicators-on-I-94.ipynb)
 * [Project: Storytelling Data Visualization on Exchange Rates](https://github.com/creativesarjun/projects/blob/main/project-6-%20storytelling-data-visualization-on-exchange-rates.ipynb)
 * [Project: Clean and Analyze Employee Exit Surveys](https://github.com/creativesarjun/projects/blob/main/project-7-clean-and-analyze-employee-exit-surveys.ipynb)
+* [Project: Analyzing CIA Factbook Data Using SQL](https://github.com/creativesarjun/projects/blob/main/project-8-analyzing-cia-factbook-data-using-SQL.ipynb)
