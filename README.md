@@ -8,3 +8,4 @@ This repository is a series of projects I've practiced learning with Dataquest.i
 * [Project: Storytelling Data Visualization on Exchange Rates](https://github.com/creativesarjun/projects/blob/main/project-6-%20storytelling-data-visualization-on-exchange-rates.ipynb)
 * [Project: Clean and Analyze Employee Exit Surveys](https://github.com/creativesarjun/projects/blob/main/project-7-clean-and-analyze-employee-exit-surveys.ipynb)
 * [Project: Analyzing CIA Factbook Data Using SQL](https://github.com/creativesarjun/projects/blob/main/project-8-analyzing-cia-factbook-data-using-SQL.ipynb)
+* [Project: Investigating Fandango Movie Ratings](https://github.com/creativesarjun/projects/blob/main/project-9-investigating-fandango-movie-ratings.ipynb)
