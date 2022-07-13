@@ -10,3 +10,4 @@ This repository is a series of projects I've practiced learning with Dataquest.i
 * [Project: Analyzing CIA Factbook Data Using SQL](https://github.com/creativesarjun/projects/blob/main/project-8-analyzing-cia-factbook-data-using-SQL.ipynb)
 * [Project: Investigating Fandango Movie Ratings](https://github.com/creativesarjun/projects/blob/main/project-9-investigating-fandango-movie-ratings.ipynb)
 * [Project: Finding the Best Markets to Advertise In](https://github.com/creativesarjun/projects/blob/main/project-10-finding-the-best-markets-to-advertise-in.ipynb)
+* [Project: Mobile App for Lottery Addiction](https://github.com/creativesarjun/projects/blob/main/project-11-mobile-app-for-lottery-addiction.ipynb)
