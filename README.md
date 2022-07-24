@@ -12,3 +12,4 @@ This repository is a series of projects I've practiced learning with Dataquest.i
 * [Project: Finding the Best Markets to Advertise In](https://github.com/creativesarjun/projects/blob/main/project-10-finding-the-best-markets-to-advertise-in.ipynb)
 * [Project: Mobile App for Lottery Addiction](https://github.com/creativesarjun/projects/blob/main/project-11-mobile-app-for-lottery-addiction.ipynb)
 * [Project: Analyzing NYC High School Data](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-12-analyzing-nyc-high-school-data.ipynb)
+* [Project: Star Wars Survey](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-13-star-wars-survey.ipynb)
