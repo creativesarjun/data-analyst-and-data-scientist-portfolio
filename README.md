@@ -25,4 +25,5 @@ Projects I've practiced learning with Dataquest.io:
 * [Project: Star Wars Survey](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-13-star-wars-survey.ipynb)
 * [Project: Building a Spam Filter with Naive Bayes](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-14-building-a-spam-filter-with-naive-bayes.ipynb)
 * [Project: Winning Jeopardy](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-15-winning-jeopardy.ipynb)
-* [Project: Predicting Car Prices](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-16-predicting-car-prices.ipynb)
+* [Project: Predicting Car Prices with K-Nearest Neighbors using scikit-learn
+](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-16-predicting-car-prices.ipynb)
