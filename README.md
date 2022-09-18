@@ -1,5 +1,15 @@
-# Projects
-This repository is a series of projects I've practiced learning with Dataquest.io
+# Data Analyst and Data Scientist Portfolio
+This repository is a series of projects and articles for my data analyst and data scientist portfolio. Here is [my data engineering portfolio](https://github.com/creativesarjun/data-engineering-portfolio).
+
+Projects:
+
+
+Articles:
+
+* [Simple linear regression algorithm in Python from scratch](https://medium.com/@creatives.arjun/simple-linear-regression-algorithm-in-python-from-scratch-28c7432bb5c2)
+
+
+Projects I've practiced learning with Dataquest.io:
 * [Project: Prison Break](https://github.com/creativesarjun/projects/blob/main/project-1-prison-break.ipynb)
 * [Project: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/creativesarjun/projects/blob/main/project-2-profitable-app-profiles-for-the-app-store-and-google-play-markets.ipynb)
 * [Project: Exploring Hacker News Posts](https://github.com/creativesarjun/projects/blob/main/project-3-exploring-hacker-news-posts.ipynb)
@@ -15,4 +25,5 @@ This repository is a series of projects I've practiced learning with Dataquest.i
 * [Project: Star Wars Survey](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-13-star-wars-survey.ipynb)
 * [Project: Building a Spam Filter with Naive Bayes](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-14-building-a-spam-filter-with-naive-bayes.ipynb)
 * [Project: Winning Jeopardy](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-15-winning-jeopardy.ipynb)
-* [Project: Predicting Car Prices](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-16-predicting-car-prices.ipynb)
+* [Project: Predicting Car Prices with K-Nearest Neighbors using scikit-learn
+](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-16-predicting-car-prices.ipynb)
