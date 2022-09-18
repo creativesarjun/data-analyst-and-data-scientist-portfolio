@@ -27,3 +27,4 @@ Projects I've practiced learning with Dataquest.io:
 * [Project: Winning Jeopardy](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-15-winning-jeopardy.ipynb)
 * [Project: Predicting Car Prices with K-Nearest Neighbors using scikit-learn
 ](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-16-predicting-car-prices.ipynb)
+* [Predicting stock prices with Random Forests using scikit-learn](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/blob/main/project-17-predicting-stock-prices.ipynb)
