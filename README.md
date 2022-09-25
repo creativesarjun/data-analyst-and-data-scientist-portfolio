@@ -1,8 +1,8 @@
 # Data Analyst and Data Scientist Portfolio
 This repository is a series of projects and articles for my data analyst and data scientist portfolio. Here is [my data engineering portfolio](https://github.com/creativesarjun/data-engineering-portfolio).
 
-Projects:
-
+Projects by algorithm:
+* [Support Vector Machines](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/tree/main/Support%20Vector%20Machines)
 
 Articles:
 
