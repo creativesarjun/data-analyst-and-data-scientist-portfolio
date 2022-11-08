@@ -8,6 +8,9 @@ Articles:
 
 * [Simple linear regression algorithm in Python from scratch](https://medium.com/@creatives.arjun/simple-linear-regression-algorithm-in-python-from-scratch-28c7432bb5c2)
 
+Deep learning practice:
+* [Deep learning with Keras on Iris dataset](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/tree/main/Deep%20learning%20with%20Keras%20on%20Iris%20dataset)
+
 
 Projects I've practiced learning with Dataquest.io:
 * [Project: Prison Break](https://github.com/creativesarjun/projects/blob/main/project-1-prison-break.ipynb)
