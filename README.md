@@ -1,7 +1,7 @@
 # Data Analyst and Data Scientist Portfolio
 This repository is a series of projects and articles for my data analyst and data scientist portfolio. Here is [my data engineering portfolio](https://github.com/creativesarjun/data-engineering-portfolio).
 
-[Projects I've practiced learning with Dataquest.io](https://github.com/creativesarjun/projects-dataquestio)
+[Projects I've practiced learning with Dataquest.io](https://github.com/creativesarjun/projects-dataquestio#projects)
 
 Articles:
 
