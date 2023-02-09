@@ -5,6 +5,7 @@ This repository is a series of projects and articles for my data analyst and dat
 
 Power BI:
 * [Sales KPIs Dashboard](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/tree/main/Power%20BI/Sales%20KPIs%20Dashboard%20Power%20BI%20data)
+* [HR Analytics - Employees Demographics & Employee Details](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/tree/main/Power%20BI/HR%20Analytics%20-%20Employees%20Demographics%20%26%20Employee%20Details)
 
 Articles:
 
