@@ -3,6 +3,9 @@ This repository is a series of projects and articles for my data analyst and dat
 
 * [Projects I've practiced learning with Dataquest.io](https://github.com/creativesarjun/projects-dataquestio#projects)
 
+Power BI:
+* [Sales KPIs Dashboard](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio/tree/main/Power%20BI/Sales%20KPIs%20Dashboard%20Power%20BI%20data)
+
 Articles:
 
 * [Simple linear regression algorithm in Python from scratch](https://medium.com/@creatives.arjun/simple-linear-regression-algorithm-in-python-from-scratch-28c7432bb5c2)
